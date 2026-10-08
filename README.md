@@ -6,7 +6,7 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=00C76A&center=true&vCenter=true&width=620&lines=Cybersecurity+Enthusiast;AI+%26+Prompt+Engineering;Web+Developer;Open+to+Internships" alt="Typing animation" />
 
-**Management Information Systems graduate (2026)** from Assiut, Egypt 🇪🇬  
+**Management Information Systems graduate (2026)** from Assiut, Egypt 
 Passionate about building real-world technical solutions with a focus on problem-solving and continuous learning.
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-kareem--basem.vercel.app-00A85A?style=for-the-badge&logo=vercel&logoColor=white)](https://kareem-basem.vercel.app)
