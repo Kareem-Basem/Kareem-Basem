@@ -1,5 +1,3 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0f3d2e&height=170&section=header&animation=fadeIn" width="100%" alt="header" />
-
 <div align="center">
 
 # Hi, I'm Kareem Basem 👋
