@@ -10,8 +10,8 @@ Hi, I’m a recent MIS graduate from Assiut, Egypt, who enjoys breaking problems
 Currently deep into cybersecurity and AI.
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-kareem--basem.vercel.app-00A85A?style=for-the-badge&logo=vercel&logoColor=white)](https://kareem-basem.vercel.app)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-karem--basem-21262D?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/karem-basem)
-[![Email](https://img.shields.io/badge/Email-karemalwy1@gmail.com-21262D?style=for-the-badge&logo=gmail&logoColor=white)](mailto:karemalwy1@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-karem--basem-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/karem-basem)
+[![Email](https://img.shields.io/badge/Email-karemalwy1@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:karemalwy1@gmail.com)
 
 </div>
 
