@@ -85,14 +85,6 @@ Passionate about building real-world technical solutions with a focus on problem
   </picture>
 </p>
 
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=Kareem-Basem&bg_color=0d1117&color=00c76a&line=00c76a&point_color=ffffff&area=true&area_color=00c76a&hide_border=true">
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=Kareem-Basem&bg_color=ffffff&color=0f7a3e&line=0f7a3e&point_color=24292f&area=true&area_color=0f7a3e&hide_border=true">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Kareem-Basem&bg_color=0d1117&color=00c76a&line=00c76a&point_color=ffffff&area=true&area_color=00c76a&hide_border=true" alt="Activity Graph" width="95%" />
-  </picture>
-</p>
-
 ---
 
 ## 🌱 Currently
