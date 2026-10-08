@@ -11,8 +11,6 @@ Passionate about building real-world technical solutions with a focus on problem
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-karem--basem-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/karem-basem)
 [![Email](https://img.shields.io/badge/Email-karemalwy1@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:karemalwy1@gmail.com)
 
-![Profile Views](https://komarev.com/ghpvc/?username=Kareem-Basem&label=Profile+Views&color=0e75b6&style=flat)
-
 </div>
 
 ---
