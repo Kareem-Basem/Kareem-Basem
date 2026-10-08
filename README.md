@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=3a0f14&height=170&section=header&animation=fadeIn" width="100%" alt="header" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0f3d2e&height=170&section=header&animation=fadeIn" width="100%" alt="header" />
 
 <div align="center">
 
@@ -6,14 +6,17 @@
 
 ### Cybersecurity · AI · Software Development
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=E5383B&center=true&vCenter=true&width=620&lines=Cybersecurity+Enthusiast;AI+%26+Prompt+Engineering;Web+Developer;Open+to+Internships" alt="Typing animation" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=00C76A&center=true&vCenter=true&width=620&lines=Cybersecurity+Enthusiast;AI+%26+Prompt+Engineering;Web+Developer;Open+to+Internships" alt="Typing animation" />
 
 **Management Information Systems graduate (2026)** from Assiut, Egypt 🇪🇬  
 Passionate about building real-world technical solutions with a focus on problem-solving and continuous learning.
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-kareem--basem.vercel.app-C1272D?style=for-the-badge&logo=vercel&logoColor=white)](https://kareem-basem.vercel.app)
+[![Portfolio](https://img.shields.io/badge/Portfolio-kareem--basem.vercel.app-00A85A?style=for-the-badge&logo=vercel&logoColor=white)](https://kareem-basem.vercel.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-karem--basem-21262D?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/karem-basem)
 [![Email](https://img.shields.io/badge/Email-karemalwy1@gmail.com-21262D?style=for-the-badge&logo=gmail&logoColor=white)](mailto:karemalwy1@gmail.com)
+
+![Profile Views](https://komarev.com/ghpvc/?username=Kareem-Basem&label=Profile+Views&color=00a85a&style=flat)
+![Followers](https://img.shields.io/github/followers/Kareem-Basem?label=Followers&logo=github&color=00a85a&labelColor=21262D&style=flat)
 
 </div>
 
@@ -33,11 +36,7 @@ Passionate about building real-world technical solutions with a focus on problem
 ## 🛠️ Skills & Tools
 
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=py,js,html,css,git,github,linux,vercel,vscode&theme=dark">
-    <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=py,js,html,css,git,github,linux,vercel,vscode&theme=light">
-    <img src="https://skillicons.dev/icons?i=py,js,html,css,git,github,linux,vercel,vscode" alt="Skills" />
-  </picture>
+  <img src="https://skillicons.dev/icons?i=py,js,html,css,git,github,linux,bash,powershell,vercel,vscode&perline=11" alt="Skills" />
 </p>
 
 | Area | Skills |
@@ -78,14 +77,22 @@ Passionate about building real-world technical solutions with a focus on problem
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Kareem-Basem&show_icons=true&title_color=e5383b&icon_color=e5383b&text_color=c9d1d9&bg_color=0d1117&hide_border=true">
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=Kareem-Basem&show_icons=true&title_color=c1272d&icon_color=c1272d&text_color=24292f&bg_color=ffffff&hide_border=true">
-    <img height="170" src="https://github-readme-stats.vercel.app/api?username=Kareem-Basem&show_icons=true&title_color=e5383b&icon_color=e5383b&text_color=c9d1d9&bg_color=0d1117&hide_border=true" alt="GitHub Stats" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Kareem-Basem&show_icons=true&title_color=00c76a&icon_color=00c76a&text_color=c9d1d9&bg_color=0d1117&hide_border=true">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=Kareem-Basem&show_icons=true&title_color=0f7a3e&icon_color=0f7a3e&text_color=24292f&bg_color=ffffff&hide_border=true">
+    <img height="170" src="https://github-readme-stats.vercel.app/api?username=Kareem-Basem&show_icons=true&title_color=00c76a&icon_color=00c76a&text_color=c9d1d9&bg_color=0d1117&hide_border=true" alt="GitHub Stats" />
   </picture>
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Kareem-Basem&layout=compact&title_color=e5383b&icon_color=e5383b&text_color=c9d1d9&bg_color=0d1117&hide_border=true">
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Kareem-Basem&layout=compact&title_color=c1272d&icon_color=c1272d&text_color=24292f&bg_color=ffffff&hide_border=true">
-    <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kareem-Basem&layout=compact&title_color=e5383b&icon_color=e5383b&text_color=c9d1d9&bg_color=0d1117&hide_border=true" alt="Top Languages" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Kareem-Basem&layout=compact&title_color=00c76a&icon_color=00c76a&text_color=c9d1d9&bg_color=0d1117&hide_border=true">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Kareem-Basem&layout=compact&title_color=0f7a3e&icon_color=0f7a3e&text_color=24292f&bg_color=ffffff&hide_border=true">
+    <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kareem-Basem&layout=compact&title_color=00c76a&icon_color=00c76a&text_color=c9d1d9&bg_color=0d1117&hide_border=true" alt="Top Languages" />
+  </picture>
+</p>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=Kareem-Basem&bg_color=0d1117&color=00c76a&line=00c76a&point_color=ffffff&area=true&area_color=00c76a&hide_border=true">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=Kareem-Basem&bg_color=ffffff&color=0f7a3e&line=0f7a3e&point_color=24292f&area=true&area_color=0f7a3e&hide_border=true">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Kareem-Basem&bg_color=0d1117&color=00c76a&line=00c76a&point_color=ffffff&area=true&area_color=00c76a&hide_border=true" alt="Activity Graph" width="95%" />
   </picture>
 </p>
 
@@ -99,8 +106,10 @@ Passionate about building real-world technical solutions with a focus on problem
 
 <div align="center">
 
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1200&color=00C76A&center=true&vCenter=true&width=520&lines=Let%27s+build+something+great+together;Open+to+internships+and+collaborations" alt="Closing line" />
+
 ⭐ *Thanks for stopping by! Feel free to reach out.*
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=3a0f14&height=100&section=footer" width="100%" alt="footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0f3d2e&height=100&section=footer" width="100%" alt="footer" />
