@@ -6,7 +6,7 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=00C76A&center=true&vCenter=true&width=620&lines=Cybersecurity+Enthusiast;AI+%26+Prompt+Engineering;Web+Developer;Open+to+Internships" alt="Typing animation" />
 
-Hi, I’m a recent MIS graduate from Assiut who enjoys breaking problems down and building solutions that actually work.
+Hi, I’m a recent MIS graduate from Assiut, Egypt, who enjoys breaking problems down and building solutions that actually work.
 Currently deep into cybersecurity and AI.
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-kareem--basem.vercel.app-00A85A?style=for-the-badge&logo=vercel&logoColor=white)](https://kareem-basem.vercel.app)
